@@ -1,7 +1,7 @@
 # My Projects
 [MyProjects ahmednabipour.pdf](https://github.com/ahmednabipour/ahmednabipour/files/7236412/MyProjects.ahmednabipour.pdf)
 
-## Smart Face Less IOT Based Parcel Locker (2020-2021)
+## Smart Face Less IOT Based Parcel Locker (2020-Peresent)
 Ganje is a smart parcel locker which could be interacted with using your smartphone via internet. The project was a collaboration between 5 divisions of mechanical, electronics, software, design and business. My job was to connect all divisions together and also I was the head of mechanical division. Our mission was to technically design and manufacture a parcel locker with all the necessary features such as IP, modularity and out door security standards. We mainly used metal fabrication (sheet metal) processes for manufacturing and, design for environment was our number one priority.	                          
 
 ## Mice VR Setup (2019-2020)
